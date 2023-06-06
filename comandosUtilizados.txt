@@ -1,0 +1,36 @@
+59  git init
+   60  git add
+   61  git add .
+   62  git commit -m commit 01 de lizetmedina
+   63  git commit -m "commit 01 de lizetmedina"
+   64  git config
+   65  git init
+   66  git remote
+   67  git config user.name "lizetmedina"
+   68  git config user.email "vanesitamedina@gmail.com"
+   69  git add .
+   70  git status
+   71  git commit -m "commit 01 de lizetmedina"
+   72  git push
+   73  git branch feature01
+   74  git status
+   75  git branch
+   76  git checkout feature01
+   77  mkdir Terminal
+   78  mkdir Hardware
+   79  git add feature01
+   80  git add .
+   81  git status
+   82  git ommit -m "commit 02 de lizetmedina"
+   83  git commit -m "commit 02 de lizetmedina"
+   84  git status
+   85  git push feature01
+   86  git push origin feature01
+   87  git log
+   88  git status
+   89  git branch feature02
+   90  git status
+   91  git add .
+   92  git commit -m "commit 03 de lizetmedina"
+   93  git push origin feature02
+   94  history
